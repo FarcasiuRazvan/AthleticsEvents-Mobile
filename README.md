@@ -1,8 +1,10 @@
-# crudProject
-See the details for L2 from here: http://www.cs.ubbcluj.ro/~dan/ma/labPlan.html
+This is an application used by athlets, coaches or sport passionates, who want to keep track of the events in which they take part. The user can create, update, delete or view an event (#crudProject). They can also filter their list of events by their category and toggle some settings like zoom the writing on the application and night-mode (#bonus-Project).
 
-In this repository you should maintain your work for the L2 project for both of the projects (Native and Non-Native).
-Please obey the following directory structure:
-- native - for the native project.
-- non-native - for non-native project.
-- server - the server that will be used by both of the above projects. 
+# crudProject
+- native - for the native project. (Kotlin)
+- non-native - for non-native project. (Flutter)
+- server - the server that will be used by both of the above projects. (Node.js with Mongo db)
+
+# bonusProject
+- non-native (Flutter)
+
